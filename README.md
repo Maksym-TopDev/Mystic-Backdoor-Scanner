@@ -72,17 +72,4 @@ Due to certain scanning and file-modifying functions, antivirus software might f
 
 Contributions are welcome! Feel free to submit pull requests to improve detection, add new features, or resolve issues.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-## Contact
-
-For questions, reach out to the creator:
-
-- **P4 Scripts**: [Join Discord](https://discord.gg/uEuetEY3jd)
 
